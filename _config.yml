@@ -4,7 +4,7 @@ remote_theme: PrimerPages/jekyll-theme-profile@githubpages
 title: Jekyll Theme Profile
 description: Theme built with jekyll-theme-profile
 image: /assets/img/social-preview.png
-repository: "PrimerPages/jekyll-theme-profile"
+repository: "PrimerPages/github-pages-demo"
 
 collections:
   docs:
