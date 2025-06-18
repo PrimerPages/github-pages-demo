@@ -23,27 +23,27 @@ css_style: |
     }
 links:
   - name: Example page with topbar
-    url: /page/topbar
-    thumbnail: /media/topbar-icon.png
+    url: /topbar-page
+    thumbnail: /assets/img/topbar-icon.png
   - name: Example page with appbar
-    url: /page/appbar
-    thumbnail: /media/appbar-icon.png
+    url: /appbar-page
+    thumbnail: /assets/img/appbar-icon.png
   - name: Example page with sidebar
-    url: /page/sidebar
-    thumbnail: /media/sidebar-icon.png
+    url: /sidebar-page
+    thumbnail: /assets/img/sidebar-icon.png
   - name: Example page with header stacked
-    url: /page/stacked
-    thumbnail: /media/stacked-icon.png
+    url: /stacked-page
+    thumbnail: /assets/img/stacked-icon.png
   - name: Example custom background
     url: /custom-background
-    thumbnail: /media/icon-bg.png
+    thumbnail: /assets/img/icon-bg.png
   - name: Example Linktree page
     url: /linktree
-    thumbnail: /media/links.png
+    thumbnail: /assets/img/links.png
   - name: Example Profile page
     url: /profile
     thumbnail: /assets/img/user-image.jpg
   - name: Example Repositories page
     url: /repositories
-    thumbnail: /media/repositories.png
+    thumbnail: /assets/img/repositories.png
 ---

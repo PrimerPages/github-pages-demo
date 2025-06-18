@@ -11,19 +11,19 @@ background:
 links:
   - name: appbar with custom background
     url: /custom-background-appbar
-    thumbnail: /media/appbar-icon.png
+    thumbnail: /assets/img/appbar-icon.png
   - name: sidebar with custom background
     url: /custom-background-sidebar
-    thumbnail: /media/icon-sidebar.png
+    thumbnail: /assets/img/icon-sidebar.png
   - name: stacked with custom background
     url: /custom-background-stacked
-    thumbnail: /media/icon-stacked.png
+    thumbnail: /assets/img/icon-stacked.png
   - name: topbar with custom background
     url: /custom-background-topbar
-    thumbnail: /media/icon-topbar.png
+    thumbnail: /assets/img/icon-topbar.png
   - name: docs with custom background
     url: /custom-background-docs
-    thumbnail: /media/icon-bg.png
+    thumbnail: /assets/img/icon-bg.png
 
 ---
 

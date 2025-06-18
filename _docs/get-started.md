@@ -1,12 +1,10 @@
 ---
 title: "Get started"
 order: 1
-category: Getting started
 image: "https://raw.githubusercontent.com/PrimerPages/jekyll-theme-profile/main/screenshot.png"
 ---
 
-This theme is based on GitHub's primer style. It supports both light and dark modes, and four style options: [appbar](styles/appbar.md), [sidebar](styles/sidebar.md), [stacked](styles/stacked.md), and [topbar](styles/topbar.md),. 
-
+This theme is based on GitHub's primer style. It supports both light and dark modes, and four style options: [appbar](../appbar.md), [sidebar](../sidebar.md), [stacked](../stacked.md), and [topbar](../topbar.md),.
 
 ![jekyll-theme-profile](https://raw.githubusercontent.com/PrimerPages/jekyll-theme-profile/main/screenshot.png)
 
@@ -23,6 +21,7 @@ And then execute:
 ```shell
 bundle install
 ```
+
 Or install it yourself as:
 
 ```shell

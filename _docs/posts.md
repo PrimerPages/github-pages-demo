@@ -1,7 +1,6 @@
 ---
 title: "Write a post"
 order: 3
-category: Getting started
 ---
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
@@ -11,7 +10,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-
 
 ## Front matter
 
@@ -34,7 +32,7 @@ Here's a list of variables for this theme
 
 | Variable | Description |
 |---|---|
-| `layout` | Specifies the layout file to use.  Use the layout file name without the file extension. <br/><br/> Go to [docs](../_docs/index.html) to learn about options |
+| `layout` | Specifies the layout file to use.  Use the layout file name without the file extension. <br/><br/> Go to [docs](index.html) to learn about options |
 | `permalink` | If you need or processed blog post URLs to be something other than the site-wide default (`/year/month/day/title.html`), then you can set this variable and it will be used as the final URL |
 | `published` | Set to false if you don't want a specific post to show up when the site is generated |
 | `date` | A date here overrides the date from the name of the post.  This can be used to ensure correct sorting of posts.  A date is specified in the format `YYYY-MM-DD HH:MM:SS +/-TTTT`: hours, minutes,seconds, and timezone offset are optional |
@@ -84,8 +82,6 @@ related_by: "tags or categories"
 
 These show up as "related posts" underneath a post.
 
-See [tagging](plugins/tagging.md) for additional features and settings using the `jekyll-tagging` plugin.
-
 ### Categories
 
 Categories of a post work similar to the tags above:
@@ -103,4 +99,3 @@ The hallmark difference between categories and tags is that categories of a post
 
 Therefore, depending on whether front matter has `category: classic hollywood`, or `categories: classic hollywood`, the example post above would have the URL as either `movies/horror/classic%20hollywood/2019/05/21/bride-of-chucky.html` or `movies/horror/classic/hollywood/2019/05/21/bride-of-chucky.html` respectively.
 
-See [category pages](plugins/category-pages.md) for additional features and settings using the `jekyll-category-pages` plugin.
