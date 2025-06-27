@@ -1,6 +1,6 @@
 # ######## Jekyll Site Settings ##########
 # theme: jekyll-theme-profile
-remote_theme: PrimerPages/jekyll-theme-profile@githubpages
+remote_theme: PrimerPages/jekyll-theme-profile
 title: Jekyll Theme Profile
 description: Theme built with jekyll-theme-profile
 image: /assets/img/social-preview.png
