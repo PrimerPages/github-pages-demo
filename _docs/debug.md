@@ -3,20 +3,24 @@ title: Debug
 order: 100
 ---
 
-<h1>Jekyll version</h1>
+## Jekyll version
+
 <pre>{{ jekyll.version }}</pre>
 
-<h1>Jekyll environment</h1>
+## Jekyll environment
+
 <pre>{{ jekyll.environment }}</pre>
 
-<h1>Site Variables</h1>
+## Site Variables
+
 <pre>{{ site | inspect }}</pre>
 
-<h1>Page Variables</h1>
+## Page Variables
+
 <pre>{{ page | inspect }}</pre>
 
 {% if paginator %}
-<h1>Paginator Variables</h1>
+## Paginator Variables
 
 <pre>{{ paginator | inspect }}</pre>
 {% endif %}
